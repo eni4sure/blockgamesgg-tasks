@@ -2,6 +2,7 @@
 0x5aA22Fb261dd2945eB161A5b826E244d64Beafab
 
 ## ABI
+```
 [
 	{
 		"inputs": [
@@ -41,3 +42,4 @@
 		"type": "function"
 	}
 ]
+```
